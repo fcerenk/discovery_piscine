@@ -1,0 +1,7 @@
+#!/usr/bin/env python3
+var = input("What you gotta say? : ")
+while var != "STOP":
+	
+	var = input("I got that! Anything else?  : ")
+	if var == "STOP":
+		break
